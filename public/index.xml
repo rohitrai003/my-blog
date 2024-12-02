@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog (Learning how to write a blog)</title>
+      <link>/posts/my-first-blog/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/my-first-blog/</guid>
+      <description>&lt;h2 id=&#34;what-i-learned&#34;&gt;What I Learned&lt;/h2&gt;
+&lt;p&gt;Hello guys, today I was casually scrolling through Youtube to watch some videos, and then suddenly I came to this video of NetworkChuck, the video was about how to get start with blog. And I was interested as I, from recently, wanted create a blog, like how to get start with blogging, how to write the blogs and all. So, I decided to watch that video  and this whole blog is the result of that video. I want to share what were the steps for starting with blogging.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;what-i-learned&#34;&gt;What I Learned&lt;/h2&gt;
+&lt;p&gt;Hello guys, today I was casually scrolling through Youtube to watch some videos, and then suddenly I came to this video of NetworkChuck, the video was about how to get start with blog. And I was interested as I, from recently, wanted create a blog, like how to get start with blogging, how to write the blogs and all. So, I decided to watch that video  and this whole blog is the result of that video. I want to share what were the steps for starting with blogging.&lt;/p&gt;
+&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
+&lt;p&gt;Firstly let&amp;rsquo;s talk about the tools which we used.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt; : It is a static site generator written in Go, optimized for speed and designed for flexibility.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Obsidian&lt;/strong&gt;: It is the platform or editor where I wrote this text and all.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Go&lt;/strong&gt; : For running the static website.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Git&lt;/strong&gt;: This is used for saving or for version control of the blog.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
